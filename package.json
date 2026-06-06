@@ -1,0 +1,13 @@
+{
+  "name": "cut-ai",
+  "version": "1.0.0",
+  "description": "Cut.Ai - Vercel Analytics enabled",
+  "scripts": {
+    "dev": "echo 'Static site - open public/index.html'",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
